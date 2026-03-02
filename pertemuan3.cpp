@@ -18,3 +18,7 @@ float LuasLingkaran(float a){
 void output(){
     cout << "Hasil :" <<LuasLingkaran(r);
 }
+
+int main(){
+    
+}
