@@ -14,3 +14,7 @@ void input(){
 float LuasLingkaran(float a){
     return 3.14159 * a * a;
 }
+
+void output(){
+    cout << "Hasil :" <<LuasLingkaran(r);
+}
