@@ -11,3 +11,6 @@ void input(){
     cin >> r;
 }
 
+float LuasLingkaran(float a){
+    return 3.14159 * a * a;
+}
