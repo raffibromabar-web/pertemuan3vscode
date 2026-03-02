@@ -7,6 +7,7 @@ int r;
 
 //implementasi fungsi dan prosedur
 void input(){
-    
+    cout << "Masukan jari-jari = ";
+    cin >> r;
 }
 
